@@ -37,7 +37,7 @@
     "sloc": "0.1.10"
   },
   "devDependencies": {
-    "codecov.io": "0.1.6",
+    "codecov.io": "0.1.7",
     "commitizen": "2.7.3",
     "cz-conventional-changelog": "1.1.5",
     "eslint": "2.4.0",
