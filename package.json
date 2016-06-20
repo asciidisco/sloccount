@@ -49,7 +49,7 @@
     "rimraf": "2.5.2",
     "semantic-release": "4.3.5",
     "standard": "6.0.8",
-    "tape": "4.5.1",
+    "tape": "4.6.0",
     "validate-commit-message": "3.0.1"
   },
   "config": {
