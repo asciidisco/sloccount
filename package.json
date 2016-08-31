@@ -34,7 +34,7 @@
     "glob": "7.0.3",
     "meow": "3.7.0",
     "mkdirp": "0.5.1",
-    "sloc": "0.1.10"
+    "sloc": "0.1.11"
   },
   "devDependencies": {
     "codecov.io": "0.1.6",
