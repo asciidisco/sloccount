@@ -32,7 +32,7 @@
   "homepage": "https://github.com/asciidisco/sloccount#readme",
   "dependencies": {
     "glob": "7.1.2",
-    "meow": "4.0.0",
+    "meow": "4.0.1",
     "mkdirp": "0.5.1",
     "sloc": "0.2.0"
   },
