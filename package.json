@@ -33,7 +33,7 @@
   "dependencies": {
     "glob": "7.1.4",
     "meow": "4.0.1",
-    "mkdirp": "0.5.1",
+    "mkdirp": "1.0.3",
     "sloc": "0.2.1"
   },
   "devDependencies": {
