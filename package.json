@@ -45,8 +45,8 @@
     "husky": "2.0.0",
     "istanbul": "0.4.5",
     "jscs": "3.0.7",
-    "tape": "4.10.2",
-    "tape": "4.10.2",
+    "tape": "5.0.1",
+    "tape": "5.0.1",
     "validate-commit-message": "3.0.1"
   },
   "config": {
